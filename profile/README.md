@@ -50,6 +50,10 @@ not publicly distributed.
 - Limited dependency on individual vendors
 - Documented and maintainable delivery
 
+# Collaboration
+
+Selected technical collaborations may be considered as the STACKBI Lab evolves.
+
 ## Founder
 
 **Chris Quirié**  
