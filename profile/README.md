@@ -53,7 +53,7 @@ not publicly distributed.
 ## Founder
 
 **Chris Quirié**  
-Founder & Principal Decision Systems Architect
+Founder & Principal Data and Decision Intelligence Architect
 
 ## Contact
 
